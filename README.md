@@ -1,10 +1,7 @@
-# Build-a-Restaurant-App-with-React-Native
+# Build-a-Restaurant-App #
 
-1. Getting Started
-	1.1 - What is React Native <br>
-	1.2 - Why should you learn React Native <br>
-	1.3 - Learning outcome from this course. <br>
-2. Setup
+
+1. Setup
 	2.1 - Installing and setting up the environment (Java, NodeJS v12.10.0, Atom or Visual Code Editor) <br>
 	2.2 - Creating virtual emulator for testing <br>
  
@@ -25,3 +22,7 @@
 > expo update <br>
 > npm install react-native-gesture-handler --save <br>
 > npm start <br>
+
+# testing App #
+
+> expo start
