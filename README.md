@@ -2,8 +2,8 @@
 
 
 1. Setup
-	2.1 - Installing and setting up the environment (Java, NodeJS v12.10.0, Atom or Visual Code Editor) <br>
-	2.2 - Creating virtual emulator for testing <br>
+	1.1 - Installing and setting up the environment (Java, NodeJS v12.10.0, Atom or Visual Code Editor) <br>
+	1.2 - Creating virtual emulator for testing <br>
  
 
 ### Android SDK installation and platform tools
